@@ -12,7 +12,7 @@ This project was built as an exploratory attempt to look at WR value through a r
 relates to contract cost.  
 
 ## Data Overview
-The analysis combines publicly available NFL data from the 2021-2024 seasons, including:
+The analysis combines publicly available from the 2024/2025 NFL Season, including:
 - WR performance metrics (FantasyPros, Pro Football Reference)
 - Contract information based on average annual salary (Over the Cap)
 
