@@ -22,10 +22,11 @@ dimensions of receiver contribution, including volume, efficiency, situational u
 ## Analytical approach 
 Using standardized 2024 performance data and an unsupervised modeling approach (Partitioning Around Medoids).  This process resulted in four intuitive wide receiver 
 archetypes.
-- Do-it-all WRs (Cluster 1): High volume, multi-situational primary options.
-- Field-Stretchers (Cluster 2): Receivers who create value through big downfield plays.
-- Slot/Gadget WRs (Cluster 3): Short area, yards after catch focused contributors.
-- Boom-or-Bust Depth WRs (Cluster 4): Volatile, situational players with inconsistent usage.
+- Do-it-all WRs (Cluster 1): Players with strong volume, red zone usage, and consistent production across multiple metrics.
+- Field-Stretchers (Cluster 2): Deep threats with high yards per reception and fewer overall targets.
+- Slot/Gadget WRs (Cluster 3): Short-area receivers with high YAC/R and lower scoring totals.
+- Boom-or-Bust Depth WRs (Cluster 4): Players who rely on touchdowns and deep shots but had inconsistent usage and drop rate concerns.
+
 
 Once these roles were defined, the analysis shifted to exploring how production and contract cost relate within each group.
 
